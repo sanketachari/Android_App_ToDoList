@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/sanket/Desktop/Android/MyApps/ToDoList/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/Users/sanket/Desktop/Android/MyApps/ToDoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.0_6ae19f712c31bdb41d5ad575184bd3ea98ea5aa3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sanket/Desktop/Android/ud851-Exercises-student/Lesson09-ToDo-List/T09.07-Solution-SwipeToDelete/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/Users/sanket/Desktop/Android/ud851-Exercises-student/Lesson09-ToDo-List/T09.07-Solution-SwipeToDelete/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.0_6102934e98d95dcd490a73d2fede35b809123f5e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sanket/Desktop/Android/MyApps/ToDoList/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/Users/sanket/Desktop/Android/MyApps/ToDoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.0_55b65a1b1259c56ee016930c2846f47da0c07f13/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sanket/Desktop/Android/MyApps/ToDoList/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-beta4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="/Users/sanket/Desktop/Android/MyApps/ToDoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.0-beta4_833415357bfa0233697e5328972df9b04a63c7e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sanket/Desktop/Android/ud851-Exercises-student/Lesson09-ToDo-List/T09.07-Solution-SwipeToDelete/app/build/intermediates/exploded-aar/com.android.support.test/exposed-instrumentation-api-publish/0.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="905f3e63973d47fedf2d945fa31d8c0f0c98816e">
+        <dex dex="/Users/sanket/Desktop/Android/ud851-Exercises-student/Lesson09-ToDo-List/T09.07-Solution-SwipeToDelete/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test-exposed-instrumentation-api-publish-0.5_67060e0bff6fadeedbec5030efb703b04d311bd5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sanket/Desktop/Android/ud851-Exercises-student/Lesson09-ToDo-List/T09.07-Solution-SwipeToDelete/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/sanket/Desktop/Android/ud851-Exercises-student/Lesson09-ToDo-List/T09.07-Solution-SwipeToDelete/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_09f84895b0cc1a7733b098834cb0b025505482f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sanket/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/2.2.3/b4b51d1925cdfda98fd861230c1ecb5855500129/baseLibrary-2.2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b4b51d1925cdfda98fd861230c1ecb5855500129">
+        <dex dex="/Users/sanket/Desktop/Android/ud851-Exercises-student/Lesson09-ToDo-List/T09.07-Solution-SwipeToDelete/app/build/intermediates/pre-dexed/debug/baseLibrary-2.2.3_00b13780082878b942e8171f0b524fb636d4f910.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sanket/Desktop/Android/ud851-Exercises-student/Lesson09-ToDo-List/T09.07-Solution-SwipeToDelete/app/build/intermediates/exploded-aar/com.android.support.test/rules/0.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e11799d8a26bfa5d48acafe012ee5545b9bf468">
+        <dex dex="/Users/sanket/Desktop/Android/ud851-Exercises-student/Lesson09-ToDo-List/T09.07-Solution-SwipeToDelete/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test-rules-0.5_2a43b919512112d91a290a5f4d533ea512038fce.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sanket/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/sanket/Desktop/Android/MyApps/ToDoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_3d9f7e0daf8df713f0ccd8756c85dc4c80f6482e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sanket/Desktop/Android/ud851-Exercises-student/Lesson09-ToDo-List/T09.07-Solution-SwipeToDelete/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/sanket/Desktop/Android/ud851-Exercises-student/Lesson09-ToDo-List/T09.07-Solution-SwipeToDelete/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_d52abdeb2bb14cb12a0b5f40736fef0c2b7b564a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sanket/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="/Users/sanket/Desktop/Android/ud851-Exercises-student/Lesson09-ToDo-List/T09.07-Solution-SwipeToDelete/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-core-1.3_bc43c5cec6e4feeb2c4f4143a805cea6b0aa6e8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sanket/Desktop/Android/ud851-Exercises-student/Lesson09-ToDo-List/T09.07-Solution-SwipeToDelete/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/sanket/Desktop/Android/ud851-Exercises-student/Lesson09-ToDo-List/T09.07-Solution-SwipeToDelete/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_16c6f63b2af7b745a2bb75cf2e08c9f6f6f302e7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sanket/Desktop/Android/MyApps/ToDoList/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/sanket/Desktop/Android/MyApps/ToDoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_5650d6380d0871b93b9fcba55945e184de068b62/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sanket/Desktop/Android/ud851-Exercises-student/Lesson09-ToDo-List/T09.07-Solution-SwipeToDelete/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/sanket/Desktop/Android/ud851-Exercises-student/Lesson09-ToDo-List/T09.07-Solution-SwipeToDelete/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_dd7297c3140a2c1ef7479045e9315417fdb46b13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sanket/Desktop/Android/ud851-Exercises-student/Lesson09-ToDo-List/T09.07-Solution-SwipeToDelete/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/sanket/Desktop/Android/ud851-Exercises-student/Lesson09-ToDo-List/T09.07-Solution-SwipeToDelete/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_01734f4ae7a1194dc0ee13521c342e93925a9ed1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sanket/Desktop/Android/MyApps/ToDoList/app/build/intermediates/exploded-aar/com.android.databinding/library/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="957dc30b1495f8689271e00d56ab09cc9192df02">
+        <dex dex="/Users/sanket/Desktop/Android/MyApps/ToDoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.databinding-library-1.2.1_f50b23ee33163cf147d4430d0306d17b99da5735/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sanket/Desktop/Android/MyApps/ToDoList/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/sanket/Desktop/Android/MyApps/ToDoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.0_60edb2b5018353e011095defd0330fac0eda026f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sanket/Desktop/Android/ud851-Exercises-student/Lesson09-ToDo-List/T09.07-Solution-SwipeToDelete/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/sanket/Desktop/Android/ud851-Exercises-student/Lesson09-ToDo-List/T09.07-Solution-SwipeToDelete/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.0_b700f59df38888bac4a158c7cd527436b934a911.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sanket/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta4/constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="/Users/sanket/Desktop/Android/MyApps/ToDoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-beta4_06629590daf84fa8440038bebbb9513d6b7473a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sanket/Desktop/Android/ud851-Exercises-student/Lesson09-ToDo-List/T09.07-Solution-SwipeToDelete/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/sanket/Desktop/Android/ud851-Exercises-student/Lesson09-ToDo-List/T09.07-Solution-SwipeToDelete/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_177841d3b89a955e420c9d4547128b22aed8d1d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sanket/Desktop/Android/ud851-Exercises-student/Lesson09-ToDo-List/T09.07-Solution-SwipeToDelete/app/build/intermediates/exploded-aar/com.android.databinding/adapters/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c56d29136c2257f63f08c29c4e739efb03b06c7d">
+        <dex dex="/Users/sanket/Desktop/Android/ud851-Exercises-student/Lesson09-ToDo-List/T09.07-Solution-SwipeToDelete/app/build/intermediates/pre-dexed/debug/com.android.databinding-adapters-1.2.1_7e2048b5cac077aeadc0db7e77e99fe7956d63c0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sanket/Desktop/Android/MyApps/ToDoList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/sanket/Desktop/Android/MyApps/ToDoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_7b5485196291af7ff6073abc751c7e9418ba58c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sanket/Desktop/Android/ud851-Exercises-student/Lesson09-ToDo-List/T09.07-Solution-SwipeToDelete/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/sanket/Desktop/Android/ud851-Exercises-student/Lesson09-ToDo-List/T09.07-Solution-SwipeToDelete/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_1c60a85a66b45240bc373cc15a3182b26d8d934a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sanket/Desktop/Android/ud851-Exercises-student/Lesson09-ToDo-List/T09.07-Solution-SwipeToDelete/app/build/intermediates/exploded-aar/com.android.support.test/runner/0.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="796f9229948e907471c5595fbe94655ccf03ff73">
+        <dex dex="/Users/sanket/Desktop/Android/ud851-Exercises-student/Lesson09-ToDo-List/T09.07-Solution-SwipeToDelete/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test-runner-0.5_a1544130bfbe74f396c9b3b0f0db318d059587d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sanket/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/sanket/Desktop/Android/ud851-Exercises-student/Lesson09-ToDo-List/T09.07-Solution-SwipeToDelete/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_3d9f7e0daf8df713f0ccd8756c85dc4c80f6482e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sanket/Desktop/Android/MyApps/ToDoList/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/sanket/Desktop/Android/MyApps/ToDoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_e93342d604f0c195831515bad08facd704a660ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sanket/Desktop/Android/MyApps/ToDoList/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/sanket/Desktop/Android/MyApps/ToDoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_206aef75ed61b80f169569df538669271372b118/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sanket/Desktop/Android/MyApps/ToDoList/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51c65a4d2a77c148175a6e7540b97b6c4e47c37b">
+        <dex dex="/Users/sanket/Desktop/Android/MyApps/ToDoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3a9d9f2a72c4c1f1d468dc52ce276b1aa7e3d069/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sanket/Desktop/Android/ud851-Exercises-student/Lesson09-ToDo-List/T09.07-Solution-SwipeToDelete/app/build/intermediates/exploded-aar/com.android.databinding/library/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="957dc30b1495f8689271e00d56ab09cc9192df02">
+        <dex dex="/Users/sanket/Desktop/Android/ud851-Exercises-student/Lesson09-ToDo-List/T09.07-Solution-SwipeToDelete/app/build/intermediates/pre-dexed/debug/com.android.databinding-library-1.2.1_dc43d5c41476f0801b339163fd7ecef6b423cf82.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sanket/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/2.2.3/b4b51d1925cdfda98fd861230c1ecb5855500129/baseLibrary-2.2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b4b51d1925cdfda98fd861230c1ecb5855500129">
+        <dex dex="/Users/sanket/Desktop/Android/MyApps/ToDoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/baseLibrary-2.2.3_00b13780082878b942e8171f0b524fb636d4f910/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sanket/Desktop/Android/MyApps/ToDoList/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c6ff20cafe47157c0dcba478c972ae3f71a491f2">
+        <dex dex="/Users/sanket/Desktop/Android/MyApps/ToDoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_826a7f12156dcbd03f32f6b4bd8193d2c51c70e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sanket/Desktop/Android/MyApps/ToDoList/app/build/intermediates/exploded-aar/com.android.databinding/adapters/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c56d29136c2257f63f08c29c4e739efb03b06c7d">
+        <dex dex="/Users/sanket/Desktop/Android/MyApps/ToDoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.databinding-adapters-1.2.1_296bacd904701585efb013ba8b1f899b8318f56f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sanket/Desktop/Android/MyApps/ToDoList/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/sanket/Desktop/Android/MyApps/ToDoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_d4df20f9bcf0f92e8d89826e77b436aee17271ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sanket/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="/Users/sanket/Desktop/Android/ud851-Exercises-student/Lesson09-ToDo-List/T09.07-Solution-SwipeToDelete/app/build/intermediates/pre-dexed/androidTest/debug/junit-4.12_294abc3a47e92448c77be46d582fb753583165de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sanket/Desktop/Android/ud851-Exercises-student/Lesson09-ToDo-List/T09.07-Solution-SwipeToDelete/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/sanket/Desktop/Android/ud851-Exercises-student/Lesson09-ToDo-List/T09.07-Solution-SwipeToDelete/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_4faa6043f33c80c85c32e2929a85de7335b22f03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sanket/Desktop/Android/ud851-Exercises-student/Lesson09-ToDo-List/T09.07-Solution-SwipeToDelete/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/sanket/Desktop/Android/ud851-Exercises-student/Lesson09-ToDo-List/T09.07-Solution-SwipeToDelete/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_7e617809e7c21f5245c2f010d6408425763bcba7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sanket/Desktop/Android/ud851-Exercises-student/Lesson09-ToDo-List/T09.07-Solution-SwipeToDelete/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/Users/sanket/Desktop/Android/ud851-Exercises-student/Lesson09-ToDo-List/T09.07-Solution-SwipeToDelete/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.0_828ed634f4db2993dab4aa70068b61fc1c7c76de.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sanket/Desktop/Android/MyApps/ToDoList/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/sanket/Desktop/Android/MyApps/ToDoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_e6bbeeaeefc1bf5a2d2cb0fd090d3992e01f751b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sanket/Desktop/Android/MyApps/ToDoList/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/sanket/Desktop/Android/MyApps/ToDoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_d4d0c1c7cb32abbb8cd64f90a44b328e5ccdb28e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sanket/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta4/constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="/Users/sanket/Desktop/Android/ud851-Exercises-student/Lesson09-ToDo-List/T09.07-Solution-SwipeToDelete/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-beta4_06629590daf84fa8440038bebbb9513d6b7473a5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sanket/Desktop/Android/MyApps/ToDoList/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/sanket/Desktop/Android/MyApps/ToDoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_5b681110d7f1a4e23840316305bb816aa9b2b625/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sanket/Desktop/Android/MyApps/ToDoList/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/sanket/Desktop/Android/MyApps/ToDoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_498a7c319cdffb4f086535459e3b8f4703b0b4fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sanket/Desktop/Android/ud851-Exercises-student/Lesson09-ToDo-List/T09.07-Solution-SwipeToDelete/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-beta4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="/Users/sanket/Desktop/Android/ud851-Exercises-student/Lesson09-ToDo-List/T09.07-Solution-SwipeToDelete/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.0-beta4_2a05fff6170ea23591debbc0acc775fd66abc4c0.jar" />
+    </item>
+
+</items>
